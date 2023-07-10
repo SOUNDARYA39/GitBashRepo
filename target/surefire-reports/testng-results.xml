@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-10T11:36:35 IST" name="Surefire suite" finished-at="2023-07-10T11:36:54 IST" duration-ms="19615">
+    <groups>
+    </groups>
+    <test started-at="2023-07-10T11:36:35 IST" name="Surefire test" finished-at="2023-07-10T11:36:54 IST" duration-ms="19615">
+      <class name="vtigersample.PracticeTest">
+        <test-method signature="m1()[pri:0, instance:vtigersample.PracticeTest@1a4013]" started-at="2023-07-10T11:36:35 IST" name="m1" finished-at="2023-07-10T11:36:54 IST" duration-ms="19551" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+      </class> <!-- vtigersample.PracticeTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
